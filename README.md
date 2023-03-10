@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 😄
+### I'm Natesh Subramanian, 
+### Currently a student studying Data Science.
+### I am passionate about Data Analytics.
 
 <!--
 **natpra/natpra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
