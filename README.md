@@ -18,8 +18,13 @@
 <ul> <li> Trying to find unique solutions to coding problems 
  <li> Love to study and perform analysis on different datasets </ul>
 </p>
+<img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/799843870505697310/1085650386163073146/caption.gif">
 
-
+<h3> 🗓️ Future Goals 🎯</h3>
+<p>
+<ul> <li> Master the domain of AI and Data Science
+ <li> Provide solutions to the hardest coding problems </ul>
+</p>
 
 <!--
 **natpra/natpra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
