@@ -19,11 +19,11 @@
  <li> Love to study and perform analysis on different datasets </ul>
 </p>
 <img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/799843870505697310/1085650386163073146/caption.gif">
-
+ <p>&nbsp; &nbsp;</p> 
 <h3> 🗓️ Future Goals 🎯</h3>
-<p>
-<ul> <li> Master the domain of AI and Data Science
- <li> Provide solutions to the hardest coding problems </ul>
+<p style="text-align:right">
+<ul> <li> &nbsp;Master the domain of AI and Data Science
+ <li> &nbsp;Provide solutions to the hardest coding problems </ul>
 </p>
 
 <!--
