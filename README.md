@@ -16,7 +16,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 <p>
 <ul> <li> Trying to find unique solutions to coding problems 
- <li> Love to study and perform analysis on different datasets </ul>
+ <li> Love to study and perform analysis on different datasets 
+ <li> <small>@nalucie </li>
+</ul>
 </p>
 <!--
 <img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/799843870505697310/1085650386163073146/caption.gif">
