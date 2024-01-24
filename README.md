@@ -1,6 +1,6 @@
 <h2> Natesh Subramanian's GitHub Profile </h2>
 
-<h4> Hi there 😄 </h4>
+<h4> Hi there 😄😊 </h4>
 <h4> I'm Natesh Subramanian, </h4>
 <h4> Currently a student studying Data Science. </h4>
 <h4> I am passionate about Data Analytics. </h4>
