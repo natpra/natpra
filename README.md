@@ -17,7 +17,7 @@
 <p>
 <ul> <li> Trying to find unique solutions to coding problems 
  <li> Love to study and perform analysis on different datasets 
- <li> <small>@nalucie </li>
+ <li> Passionate about working with team members and close *friends* @nalucie </li>
 </ul>
 </p>
 <!--
