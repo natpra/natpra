@@ -18,7 +18,9 @@
 <ul> <li> Trying to find unique solutions to coding problems 
  <li> Love to study and perform analysis on different datasets </ul>
 </p>
+<!--
 <img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/799843870505697310/1085650386163073146/caption.gif">
+-->
  <p>&nbsp; &nbsp;</p> 
 <h3> 🗓️ Future Goals 🎯</h3>
 <p style="text-align:right">
