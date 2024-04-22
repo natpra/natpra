@@ -20,7 +20,8 @@
  <li> Passionate about working with my peers </li>
 </ul>
 </p>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="300" height="200"/>
+
 
  <p>&nbsp; &nbsp;</p> 
 <h3> 🗓️ Future Goals 🎯</h3>
