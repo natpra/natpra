@@ -6,6 +6,7 @@
 <h4> I am passionate about Data Analytics. </h4>
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/800609280688128011/1083735036739715185/caption.gif"/>
+![githubprofile](https://github.com/natpra/natpra/assets/113239581/af1a4c43-5cf8-4248-97a4-07475b7e3d44)
 
 <h3 align="center">Languages and Tools: </h3>
 <hr style="width:50%;text-align:left;margin-left:20">  
