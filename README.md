@@ -7,7 +7,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/natpra/natpra/assets/113239581/af1a4c43-5cf8-4248-97a4-07475b7e3d44"/>
 
-
 <h3 align="center">Languages and Tools: </h3>
 <hr style="width:50%;text-align:left;margin-left:20">  
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -21,9 +20,8 @@
  <li> Passionate about working with my peers </li>
 </ul>
 </p>
-<!--
-<img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/799843870505697310/1085650386163073146/caption.gif">
--->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
+
  <p>&nbsp; &nbsp;</p> 
 <h3> 🗓️ Future Goals 🎯</h3>
 <p style="text-align:right">
