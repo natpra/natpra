@@ -3,7 +3,14 @@
 <h4> Hi there 😄😊 </h4>
 <h4> I'm Natesh Subramanian, </h4>
 <h4> Currently a student studying Data Science. </h4>
-<h4> I am passionate about Data Analytics. </h4>
+I have great interest in using Data Science to solve day to day problems and apply them to real life situations to develop mankind's usage of AI to its best advantage.
+
+Following is my qualifications:
+| Degree | Course | University | Duration |
+| --- | --- | --- | --- |
+| B.Tech | Computer Science & Engineering (AI & Data Science)| SASTRA University (Thanjavur) | 2020 - 2024 |
+| MS. | Business Analytics and Artificial Intelligence| The University of Texas at Dallas | 2024 - current |
+
 
 <img align="right" alt="GIF" src="https://github.com/natpra/natpra/assets/113239581/af1a4c43-5cf8-4248-97a4-07475b7e3d44"/>
 
