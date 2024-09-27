@@ -14,6 +14,9 @@ Following is my qualifications:
 
 <img align="right" alt="GIF" src="https://github.com/natpra/natpra/assets/113239581/af1a4c43-5cf8-4248-97a4-07475b7e3d44"/>
 
+Connect with me on Linkedin!
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="natesh-subramanian" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/natesh-subramanian?trk=profile-badge">Natesh Subramanian</a></div> 
+              
 <h3 align="center">Languages and Tools: </h3>
 <hr style="width:50%;text-align:left;margin-left:20">  
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
